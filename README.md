@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @davexhardware
-- 👀 I’m interested in CompSci, DevOps, CybSec, AI, ML e NNs and many others cool acronyms :D
-- 🌱 I’m currently learning Computer Science Engineering
-- 📫 How to reach me davexsoia@gmail.com
+- 👀 I’m interested in ComputerSci-Eng, DevOps, CybSec, AI, ML e NNs and many others cool acronyms :D
+- 🌱 I’m currently studying Computer Science Engineering @Politecnico di Bari
+- 📫 Reach me at davexsoia@gmail.com
